@@ -1,0 +1,31 @@
+#speciala {color: 000000; background-color: brown;}
+#specialb {color: rgb(189, 108, 255); background-color: rgb(0, 0, 78);}
+#specialc {color: rgb(43, 226, 186); background-color: #ff0033;}
+.pair1 {color: #ff849c; background-color: black;}
+#speciald {color: #276625; background-color: aquamarine;}
+.group1 {color: aliceblue; background-color: hwb(130 0% 57%);}
+#speciale {color: #f98463;background-color: #002277;}
+#specialf {color: #cf335d; background-color: #000000;}
+a { color: #ff0000;  }
+.group2 {color: #276625;background-color: #ff849c;}
+.group3 {color: #f98463;background-color: #171717;}
+#team1 {color: #002277;background-color: #ff0000;}
+#team2 {color: #134823;background-color:#392467 ;}
+#team3 {color: #888888;background-color: #e91016;}
+#team4 {color: #cd7799;background-color: #dd2966;}
+#team5 {color: #f564f9;background-color:#bb00fd ;}
+#team6 {color: #333356;background-color: #2277dd;}
+#pretty1 {color: #cd7799;background-color: rgb(29, 32, 32);}
+#pretty2 {color: #bb00fd;background-color: #333356;}
+#pretty3 {color: #134823;background-color: #7097eb;}
+#pretty4 {color: #7097eb;background-color: #cd7799;}
+#pretty5 {color: #eb9008;background-color: #134823;}
+#pretty6 {color: #74acf0;background-color: #002277;}
+a:visited { color: #00ff15;}
+a:hover {color: #ffff00;}     
+.a1  {color: #000000;background-color: #74acf0;}
+.a2 {color: #000000; background-color: #fd8b8b;}
+.a4 {color: #000000;background-color: #83c9ce;}
+#bigguy {color: #b4650a;background-color: #ebcb3d;}
+#diver {color: #ce5d00;background-color: #002277;}
+.spancakes {color: #360404;background-color: #a2dbcd;}
