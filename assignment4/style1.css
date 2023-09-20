@@ -1,0 +1,42 @@
+#speciala {background-color: brown;}
+#specialb {background-color: rgb(0, 0, 78);}
+#specialc {background-color: #ff0033;}
+.pair1 {color: #ff849c; background-color: black;}
+#speciald {background-color: aquamarine;}
+.group1 {color: aliceblue; background-color: hwb(130 0% 57%);}
+#speciale {background-color: #002277;}
+#specialf {background-color: #000000;}
+a { color: #ff0000; font-family: Arial, Helvetica, sans-serif; }
+.group2 {color: #276625;background-color: #ff849c;}
+.group3 {color: #f98463;background-color: #171717;}
+#team1 {color: #002277;background-color: #ff0000;}
+#team2 {color: #134823;background-color:#392467 ;}
+#team3 {color: #888888;background-color: #e91016;}
+#team4 {color: #cd7799;background-color: #dd2966;}
+#team5 {color: #f564f9;background-color:#bb00fd ;}
+#team6 {color: #333356;background-color: #2277dd;}
+#pretty1 {background-color: rgb(29, 32, 32);}
+#pretty2 {background-color: #333356;}
+#pretty3 {background-color: #7097eb;}
+#pretty4 {background-color: #cd7799;}
+#pretty5 {background-color: #134823;}
+#pretty6 {background-color: #002277;}
+a:visited { color: #00ff15;}
+a:hover {color: #ffff00;}     
+.a1 {background-color: #74acf0;}
+.a2 {background-color: #fd8b8b;}
+.a4 {background-color: #83c9ce;}
+#bigguy {color: #b4650a;background-color: #ebcb3d;}
+#diver {color: #ce5d00;background-color: #002277;}
+.spancakes {color: #360404;background-color: #a2dbcd;}
+p {font-family: Arial, Helvetica, sans-serif; text-align: center;}
+h1 {font-family: Arial, Helvetica, sans-serif;font-style: italic;color: #ff7b00;font-weight: normal;}
+h2 {font-family: Arial, Helvetica, sans-serif;font-style: italic;color: #ff7b00;font-weight: normal;}
+h3 {font-family: Arial, Helvetica, sans-serif;font-style: italic;color: #ff7b00;font-weight: normal;}
+h4 {font-family: Arial, Helvetica, sans-serif;font-style: italic;color: #ff7b00;font-weight: normal;}
+li {font-family: Arial, Helvetica, sans-serif;}
+strong {font-family: Arial, Helvetica, sans-serif;}
+ul {font-family: Arial, Helvetica, sans-serif;}
+body {background-image:url(mam.jpg); background-color: #d2baff;background-repeat: no-repeat; background-position: center center;}
+img {border:10px solid #000000 ;padding:10px 10px 10px 10px; background-color: #f8f404;}
+#mjking {text-align: justify;}
