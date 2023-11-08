@@ -1,0 +1,32 @@
+body {background-image: linear-gradient(to bottom, #f5e8aa, #f7e174, #ecd14b); background-repeat: no-repeat; height: 100%; background-position: center; background-size: cover;}
+#wrapper {margin: 1em auto; padding: 0; width: 960px; display: grid; grid-template-rows:100px, auto, 75px ; background-color: white; border: 5px solid black;}
+h1 {font-family: 'Edu TAS Beginner', cursive; text-decoration: underline; font-style: italic; color: #aab7f5; margin-top: 15px; margin-left: 15px; font-weight: bolder; text-align: center; font-size: 70px;}
+
+
+h2 {font-family: 'Edu TAS Beginner', cursive; margin-left: 20px; color: black; padding: 0; border: 0;}
+
+hr {border: 1px solid black; margin-left: 20px; margin-right: 20px; margin-top: 1px;}
+
+p {font-family: 'Edu TAS Beginner', cursive; margin: 20px; text-align: justify;}
+
+header {text-decoration: none; grid-column: span 12; margin: 0;}
+
+nav {grid-column: span 6; font-family: 'Edu TAS Beginner', cursive; color: #F5aab7; font-weight: bold;}
+nav ul {list-style-type: none; padding: 0; text-align: center;}
+nav li {display: inline-block; width: 23.2%; margin: 2px; font-weight: bold; padding: 2px; border: 2px black solid;  border-radius: 10px;box-shadow: 10px 10px 10px #999; /* x, y, blur, color */}
+
+
+
+main {grid-column: span 8;}
+
+.h2 {text-align: center;}
+
+.floating {float: left; padding: 0px; margin: 15px; border: 2px solid black; border-radius: 500px;box-shadow: 10px 10px 10px #999; /* x, y, blur, color */}
+.floating1 {float: right; padding: 0px; margin: 15px;}
+.floating-right {float: left; border: 2px solid black; padding: 0px; margin: 15px; width: 150px; border-radius: 500px;box-shadow: 10px 10px 10px #999; /* x, y, blur, color */}
+.floating-right1 {float: left; border: 2px solid black; padding: 0px; margin: 15px; border-radius: 10px;box-shadow: 10px 10px 10px #999; /* x, y, blur, color */}
+.float {float: right; border: 2px solid black; border-radius: 500px;box-shadow: 10px 10px 10px #999; /* x, y, blur, color */}
+img {width: 250px; margin-left: 20px; margin-right: 20px;}
+
+footer {grid-column: span 12; border-top: 5px solid black;}
+
